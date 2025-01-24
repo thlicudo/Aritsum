@@ -11,7 +11,7 @@ const Hero = () => {
 
         <button
           type="button"
-          onClick={() => window.open("")}
+          onClick={() => window.open("https://github.com/thlicudo/Aritsum")}
           className="black_btn"
         >
           Github
